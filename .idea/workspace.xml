@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2184f9fb-12bb-476a-b36c-88d35cf7f163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/resources/appConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/appConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/beandefinition/BeanDefinitionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/singletionTest/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/xml/XmlAppContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/OrderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/OrderApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/Order/OrderServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hello/core/Order/OrderServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/OrderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hello/core/Order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2184f9fb-12bb-476a-b36c-88d35cf7f163" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,7 +239,7 @@
       <workItem from="1622634218395" duration="599000" />
       <workItem from="1622672346715" duration="174000" />
       <workItem from="1622672551219" duration="11933000" />
-      <workItem from="1622757636000" duration="9998000" />
+      <workItem from="1622757636000" duration="10132000" />
     </task>
     <servers />
   </component>
