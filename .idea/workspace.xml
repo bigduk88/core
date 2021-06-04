@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2184f9fb-12bb-476a-b36c-88d35cf7f163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/beanfind/ApplicationContexBasicFindTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/beanfind/ApplicationContextExtendsFindTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/beanfind/ApplicationContextSameFIndTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/beandefinition/BeanDefinitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/singletionTest/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/xml/XmlAppContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/MemberApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/MemberApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/Order/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/OrderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/OrderApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/Order/OrderServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hello/core/Order/OrderServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/Order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/core/OrderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/core/Order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +86,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -102,6 +110,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -115,6 +124,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -128,7 +138,7 @@
       <recent name="hello.core.discount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApplicationContextExtendsFindTest">
+  <component name="RunManager" selected="JUnit.All in core.test">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -142,81 +152,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextExtendsFindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in core.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanDefinitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="PATTERN" value="hello.core.beandefinition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
+      <option name="PACKAGE_NAME" value="hello.core.beandefinition" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beandefinition.BeanDefinitionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextExtendsFindTest.findAllBeanByObjectType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BeanDefinitionTest.findApplicationBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="PATTERN" value="hello.core.beandefinition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
-      <option name="METHOD_NAME" value="findAllBeanByObjectType" />
+      <option name="PACKAGE_NAME" value="hello.core.beandefinition" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beandefinition.BeanDefinitionTest" />
+      <option name="METHOD_NAME" value="findApplicationBean" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextExtendsFindTest.findAllBeanaByParentType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="PATTERN" value="hello.core.singletionTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
-      <option name="METHOD_NAME" value="findAllBeanaByParentType" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="hello.core.singletionTest" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.singletionTest.SingletonTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationContextExtendsFindTest.findBeanByparentTypeDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="XmlAppContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
+          <option name="PATTERN" value="hello.core.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
-      <option name="METHOD_NAME" value="findBeanByparentTypeDuplicate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationContextExtendsFindTest.findBeanParentTypeDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="core.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hello.core.beanfind.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
-      <option name="METHOD_NAME" value="findBeanParentTypeDuplicate" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="hello.core.xml" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.xml.XmlAppContext" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest" />
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findAllBeanByObjectType" />
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findAllBeanaByParentType" />
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findBeanByparentTypeDuplicate" />
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findBeanParentTypeDuplicate" />
+        <item itemvalue="JUnit.All in core.test" />
+        <item itemvalue="JUnit.SingletonTest" />
+        <item itemvalue="JUnit.BeanDefinitionTest" />
+        <item itemvalue="JUnit.BeanDefinitionTest.findApplicationBean" />
+        <item itemvalue="JUnit.XmlAppContext" />
       </list>
     </recent_temporary>
   </component>
@@ -258,12 +258,15 @@
       <workItem from="1622634218395" duration="599000" />
       <workItem from="1622672346715" duration="174000" />
       <workItem from="1622672551219" duration="11933000" />
-      <workItem from="1622757636000" duration="5667000" />
+      <workItem from="1622757636000" duration="9998000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
