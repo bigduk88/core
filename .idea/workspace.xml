@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2184f9fb-12bb-476a-b36c-88d35cf7f163" name="Default Changelist" comment="" />
+    <list default="true" id="2184f9fb-12bb-476a-b36c-88d35cf7f163" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/singletion/SingletonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/core/singletionTest/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/core/singletion/SingletonTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +104,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -119,16 +125,14 @@
       <recent name="hello.core.discount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in core.test">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SingletonTest.singletonServiceTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,28 +180,29 @@
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.singletionTest.*" />
+          <option name="PATTERN" value="hello.core.singletion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.singletionTest" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.singletionTest.SingletonTest" />
+      <option name="PACKAGE_NAME" value="hello.core.singletion" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.singletion.SingletonTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlAppContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonTest.singletonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.xml.*" />
+          <option name="PATTERN" value="hello.core.singletion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.xml" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.xml.XmlAppContext" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="hello.core.singletion" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.singletion.SingletonTest" />
+      <option name="METHOD_NAME" value="singletonServiceTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingletonTest.singletonServiceTest" />
         <item itemvalue="JUnit.All in core.test" />
         <item itemvalue="JUnit.SingletonTest" />
         <item itemvalue="JUnit.BeanDefinitionTest" />
         <item itemvalue="JUnit.BeanDefinitionTest.findApplicationBean" />
-        <item itemvalue="JUnit.XmlAppContext" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +245,9 @@
       <workItem from="1622672346715" duration="174000" />
       <workItem from="1622672551219" duration="11933000" />
       <workItem from="1622757636000" duration="10132000" />
+      <workItem from="1622782737017" duration="1360000" />
+      <workItem from="1622788221978" duration="2746000" />
+      <workItem from="1622847920788" duration="2681000" />
     </task>
     <servers />
   </component>
